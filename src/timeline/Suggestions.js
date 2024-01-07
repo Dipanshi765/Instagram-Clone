@@ -88,7 +88,7 @@ function Suggestions() {
               <Avatar></Avatar>
             </span>
             <div className="username__info">
-              <span className="username">Kim Tehyung_95</span>
+              <span className="username">Kim Taehyung_95</span>
               <span className="relation">New to Instagram</span>
             </div>
           </div>
